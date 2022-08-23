@@ -1,0 +1,38 @@
+{
+
+    "signup": { 
+    "name": "Silas Sousa" ,
+    "cpf": "12145687909" ,
+    "email": "silaslindo@gmail.com" ,
+    "whatsapp": "81997196677" ,
+    "address": {
+        "postalcode": "50050540" ,
+        "street": "Avenida Visconde de Suassuna", 
+        "number": "540" ,
+        "details": "Ed Marfim" ,
+        "district": "Santo Amaro" ,
+        "city_uf": "Recife/PE"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+    
+}, 
+
+"email_inv": { 
+    "name": "Silas Sousa" ,
+    "cpf": "12145687909" ,
+    "email": "silas.com.br" ,
+    "whatsapp": "81997196677" ,
+    "address": {
+        "postalcode": "50050540" ,
+        "street": "Avenida Visconde de Suassuna", 
+        "number": "540" ,
+        "details": "Ed Marfim" ,
+        "district": "Santo Amaro" ,
+        "city_uf": "Recife/PE"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+}
+    }
+    
